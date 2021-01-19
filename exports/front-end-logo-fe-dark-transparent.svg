@@ -1,1 +1,58 @@
-<svg id="SvgjsSvg1001" width="288" height="288" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs"><defs id="SvgjsDefs1002"></defs><g id="SvgjsG1008" transform="matrix(0.9167,0,0,0.9167,11.995200000000011,11.995200000000011)"><svg xmlns="http://www.w3.org/2000/svg" id="svg90" version="1.1" viewBox="0 0 512 512" width="288" height="288"><defs id="defs80"></defs><path id="polygon84" fill="#323330" d="M 30.5 0 L 71.5 460 L 255.5 512 L 440.5 460 L 481.5 0 L 30.5 0 z M 84.419922 62.269531 L 256.35938 62.269531 L 238.56055 130.07031 L 159.49023 130.07031 L 165.53906 200.30078 L 220.15039 200.30078 L 202.10938 269.32031 L 171.23047 269.32031 L 178.85938 357.71094 L 161.55078 423.93945 L 114.68945 410.99023 L 84.419922 62.269531 z M 291.34961 62.269531 L 427.08008 62.269531 L 396.81055 410.99023 L 256.35938 449.73047 L 255.15039 449.73047 L 194.24023 432.90039 L 211.56055 366.55078 L 255.15039 378.28906 L 331.42969 357.71094 L 339.90039 269.32031 L 237.09961 269.32031 L 255.15039 200.30078 L 345.96094 200.30078 L 352.00977 130.07031 L 273.66992 130.07031 L 291.34961 62.269531 z " class="colorfff svgShape"></path></svg></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg90"
+   sodipodi:docname="front-end-logo-fe-dark-transparent.svg"
+   inkscape:version="0.91 r13725">
+  <metadata
+     id="metadata94">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>front-end-logo-bw</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview92"
+     showgrid="false"
+     inkscape:zoom="1.96875"
+     inkscape:cx="163.55556"
+     inkscape:cy="357.5873"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg90" />
+  <defs
+     id="defs80">
+    <style
+       id="style78">.a{fill:#323330;}.b{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title82">front-end-logo-bw</title>
+  <path
+     id="polygon84"
+     style="fill:#323330;fill-opacity:1"
+     d="M 30.5 0 L 71.5 460 L 255.5 512 L 440.5 460 L 481.5 0 L 30.5 0 z M 84.419922 62.269531 L 256.35938 62.269531 L 238.56055 130.07031 L 159.49023 130.07031 L 165.53906 200.30078 L 220.15039 200.30078 L 202.10938 269.32031 L 171.23047 269.32031 L 178.85938 357.71094 L 161.55078 423.93945 L 114.68945 410.99023 L 84.419922 62.269531 z M 291.34961 62.269531 L 427.08008 62.269531 L 396.81055 410.99023 L 256.35938 449.73047 L 255.15039 449.73047 L 194.24023 432.90039 L 211.56055 366.55078 L 255.15039 378.28906 L 331.42969 357.71094 L 339.90039 269.32031 L 237.09961 269.32031 L 255.15039 200.30078 L 345.96094 200.30078 L 352.00977 130.07031 L 273.66992 130.07031 L 291.34961 62.269531 z " />
+</svg>
