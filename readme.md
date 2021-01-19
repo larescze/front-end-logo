@@ -1,6 +1,6 @@
 # Front-End Web Development Logo
 
-This is [shannonmoeller](https://github.com/larescze/front-end-logo/commits?author=shannonmoeller) improved by transparent letters "FE" in SVG version of this logo.<br/>
+This is copy of [shannonmoeller repository](https://github.com/larescze/front-end-logo/commits?author=shannonmoeller) improved by transparent letters "FE" in SVG version of this logo.<br/>
 
 Inspired by the official W3C [HTML logo suite](https://www.w3.org/html/logo/) and the un-official [JavaScript logo](https://github.com/voodootikigod/logo.js) by Chris Williams.
 
