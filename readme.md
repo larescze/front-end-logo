@@ -6,7 +6,7 @@ Inspired by the official W3C [HTML logo suite](https://www.w3.org/html/logo/) an
 
 ## New transparent version
 
-<br/><a href="https://github.com/larescze/front-end-logo/blob/master/exports/front-end-logo-fe-dark-transparent.svg"><img src="https://raw.githubusercontent.com/larescze/front-end-logo/60cd034d5b93ae2b77e8cde17ae153b71c0ebc30/exports/front-end-logo-fe-dark-transparent.svg" alt="color logo" /></a>
+<br/><a href="https://github.com/larescze/front-end-logo/blob/master/exports/front-end-logo-fe-dark-transparent.svg"><img src="https://raw.githubusercontent.com/larescze/front-end-logo/909191dac925f933163ac1d707c01cb5ed633490/exports/front-end-logo-fe-dark-transparent.svg" alt="color logo" /></a>
 
 ## Other versions
 
